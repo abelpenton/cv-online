@@ -29,16 +29,6 @@ or my portfolio **[click here](https://gianmarcocavallo.com)**
 # Steps ▶️
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/Ladvace/astro-bento-portfolio
-```
-
-```bash
-# Go into the repository
-$ cd astro-bento-portfolio
-```
-
-```bash
 # Install dependencies
 $ pnpm install
 or
@@ -68,6 +58,3 @@ or
 
 [![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ladvace/astro-bento-portfolio)
 
-## Authors ❤️
-
-- Gianmarco - https://github.com/Ladvace

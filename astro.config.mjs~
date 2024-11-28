@@ -22,7 +22,11 @@ export default defineConfig({
       ],
     }),
     solidJs(),
-    UnoCSS({ injectReset: true }),
+    UnoCSS({
+      injectReset: false,
+      content: {
+        files: ['./src/**/*.{html,js,ts,astro}', ], // Restrict to necessary files
+      }, }),
     icon(),
     svelte(),
   ],

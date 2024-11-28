@@ -12,6 +12,6 @@ import Pulse from "./Pulse.astro";
     <Pulse />
   </div>
   <p class="text-xs">Currently working as Software Engineer at <a href="https://protect.group" target="_blank">
-    <span class="text-xs text-gray-300 cursor-pointer">Protect Group</span>
+    <span class="text-xs text-gray-500 cursor-pointer">Protect Group</span>
   </a></p>
 </Card>
