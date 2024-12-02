@@ -1,7 +1,7 @@
 export const LINKS = {
   github: "https://github.com/abelpenton",
   linkedin: "https://www.linkedin.com/in/abelpenton/",
-  cv: "https://drive.google.com/file/d/1Bj90ZugpzPg2ttQsKIyzgXxHPW4H3i4N/view?usp=sharing"
+  cv: `https://drive.google.com/file/d/${import.meta.env.PUBLIC_CV_ID}/view?usp=sharing`
 };
 
 export const loaderAnimation = [
